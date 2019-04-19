@@ -2,6 +2,7 @@
 
 namespace Snake
 {
+using Coordinate = std::pair<int,int>;
 
 struct Position
 {
